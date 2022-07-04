@@ -3,4 +3,5 @@ git add -A  =>from local ws to staging area
 git cummit -m "msg"  =>from staging area to local repo
 git status  =>to find the current status
 git remote -v => to check the add path
-git remote add
+git remote add name("hub")
+git push hub master
